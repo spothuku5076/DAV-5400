@@ -1,0 +1,20 @@
+[
+    {
+        "book_title": "Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter",
+        "author": "Wes McKinney",
+        "amazon_ratings": 4.2,
+        "amazon_price": 50.71
+    },
+    {
+        "book_title": "Murach's Python for Data Analysis (Training & Reference)",
+        "author": "Scott McCoy, Joel Murach",
+        "amazon_ratings": 4.4,
+        "amazon_price": 56.67
+    },
+    {
+        "book_title": "Pandas for Everyone: Python Data Analysis (Addison-Wesley Data & Analytics Series)",
+        "author": "Daniel Y. Chen",
+        "amazon_ratings": 4.5,
+        "amazon_price": 17.27
+    }
+]
